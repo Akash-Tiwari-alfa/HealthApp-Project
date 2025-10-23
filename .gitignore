@@ -1,0 +1,5 @@
+# Ignore node_modules folders everywhere
+**/node_modules
+
+# Ignore React build folder
+frontend/build
